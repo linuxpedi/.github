@@ -4,7 +4,7 @@ Linuxpedi, Linux, Cloud ve DevOps alanlarında kapsamlı bilgi sunmayı amaçlay
 
 ## Misyon
 
-Linux, cloud ve DevOps topluluklarını desteklemek, eğitmek ve bir araya getirmek için kaynaklar ve rehberler sağlamak.
+Linux, Cloud ve DevOps topluluklarını desteklemek, eğitmek ve bir araya getirmek için kaynaklar ve rehberler sağlamak.
 
 ## İletişim
 
