@@ -1,6 +1,6 @@
 # Linuxpedi
 
-Linuxpedi, Linux, cloud ve DevOps alanlarında kapsamlı bilgi sunmayı amaçlayan bir topluluktur. Web sitesi [linuxpedi.com](https://linuxpedi.com) üzerinden erişilebilir.
+Linuxpedi, Linux, Cloud ve DevOps alanlarında kapsamlı bilgi sunmayı amaçlayan bir topluluktur. Web sitesi [linuxpedi.com](https://linuxpedi.com) üzerinden erişilebilir.
 
 ## Misyon
 
